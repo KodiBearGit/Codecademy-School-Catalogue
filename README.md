@@ -36,7 +36,7 @@ node app.js (with node.js installed)
 
 ## Status
 
-Project is: In Progress
+Project is: Completed
 
 ## Inspiration
 
